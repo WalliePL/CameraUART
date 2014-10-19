@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<config>
+        <portName>COM4</portName>
+        <baudRate>115200</baudRate>
+        <dataBits>8</dataBits>
+        <parity>none</parity>
+		<stopBits>1</stopBits>
+		<flowControl>none</flowControl>
+</config>
